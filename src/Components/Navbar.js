@@ -28,7 +28,7 @@ export class Navbar extends Component {
                             <li><a className="dropdown-item"href="/Entertainment">General</a></li>
                             <li><a className="dropdown-item"href="/Entertainment">Health</a></li>
                             <li><a className="dropdown-item"href="/Entertainment">Sports</a></li>
-                            <li><a className="dropdown-item"href="/Entertainment">Technology</a></li>
+                            {/* <li><a className="dropdown-item"href="/Entertainment">Technology</a></li> */}
                             <li><hr className="dropdown-divider"/></li>
                             <li><a className="dropdown-item"href="/bs">Something else here</a></li>
                         </ul>
