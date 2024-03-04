@@ -1,0 +1,136 @@
+{
+"status": "ok",
+"totalResults": 10,
+"articles": [
+    {
+    "source": {
+        "id": "bbc-sport",
+        "name": "BBC Sport"
+    },
+    "author": null,
+    "title": "Bahrain Grand Prix final practice - radio & text",
+    "description": "Follow live text and BBC Radio 5 Sports Extra commentary from third practice and qualifying at the Bahrain Grand Prix.",
+    "url": "http://www.bbc.co.uk/sport/live/formula1/67915013",
+    "urlToImage": "https:////m.files.bbci.co.uk/modules/bbc-morph-sport-seo-meta/1.23.3/images/bbc-sport-logo.png",
+    "publishedAt": "2024-03-01T12:07:21.5714142Z",
+    "content": "Hello, folks. Friday is a Saturday and Saturday becomes a Sunday in the world of Formula 1 this weekend. \r\nIf you're joining us for first and second practice, then sorry, you've missed it. But don't … [+388 chars]"
+    },
+    {
+    "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+    },
+    "author": "Christine Brennan",
+    "title": "Olympian Katie Ledecky is focused on Paris, but could 2028 Games also be in the picture?",
+    "description": "Katie Ledecky is locked in on training for the Paris Olympics while embracing role as an advocate for women and girls in sports.",
+    "url": "https://www.usatoday.com/story/sports/columnist/brennan/2024/03/01/olympics-paris-swimmer-katie-ledecky-2024/72800571007/",
+    "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/03/01/USAT/72800829007-katie-ledecky-athleta-2.jpg?crop=8394,4725,x0,y0&width=3200&height=1802&format=pjpg&auto=webp",
+    "publishedAt": "2024-03-01T11:08:36+00:00",
+    "content": "Katie Ledecky, the greatest female swimmer in history, calls herself a sports nerd who always has the television turned to some sort of game, so she knows all about the dramatic changes occurring acr… [+4225 chars]"
+    },
+    {
+    "source": {
+        "id": "fox-sports",
+        "name": "Fox Sports"
+    },
+    "author": "John Fanta, Michael Cohen",
+    "title": "College basketball roundtable: Michigan State's tourney streak, top transfers and more",
+    "description": "Is Michigan State's NCAA Tournament streak in jeopardy? Who is the top transfer in the nation? FOX Sports' college basketball experts answer that and more.",
+    "url": "http://www.foxsports.com/stories/college-basketball/college-basketball-roundtable-michigan-states-tourney-streak-top-transfers-and-more",
+    "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2024/02/1408/814/2024-02-29_College-Basketball-Roundtable_16x9.jpg?ve=1&tl=1",
+    "publishedAt": "2024-02-29T20:59:30Z",
+    "content": "It's almost time, ladies and gentlemen!\r\nThat long-awaited, fun-filled day when you wait to hear your team's name called before breaking out a pen and paper to fill out your NCAA Tournament bracket i… [+17577 chars]"
+    },
+    {
+    "source": {
+        "id": "reuters",
+        "name": "Reuters"
+    },
+    "author": null,
+    "title": "Sports News | Breaking & Latest Sports News | Reuters",
+    "description": "Find latest sports news from every corner of the globe at Reuters.com, your online source for breaking international news coverage.",
+    "url": "https://www.reuters.com/sports/",
+    "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=179",
+    "publishedAt": "2024-02-29T20:37:22.1445641Z",
+    "content": null
+    },
+    {
+    "source": {
+        "id": "four-four-two",
+        "name": "FourFourTwo"
+    },
+    "author": "Mark White",
+    "title": "Gary Neville reveals Sky conversation following 'billion-pound bottle jobs' line",
+    "description": "Gary Neville called Chelsea “billion-pound bottle jobs” following their League Cup capitulation, in a moment that was later discussed with a producer at Sky Sports",
+    "url": "https://www.fourfourtwo.com/news/gary-neville-reveals-sky-conversation-following-billion-pound-bottle-jobs-line",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/bZNjknyXnWLUE4N5nrbZUR-1200-80.jpg",
+    "publishedAt": "2024-02-29T17:00:21Z",
+    "content": "Gary Neville has spoken about his now infamous blasting of Chelsea as “billion-pound bottle jobs”, reflecting on the moment that the Blues lost the League Cup final.\r\nSpeaking on the Stick to Footbal… [+3443 chars]"
+    },
+    {
+    "source": {
+        "id": "talksport",
+        "name": "TalkSport"
+    },
+    "author": "Josh Fordham",
+    "title": "Manchester United release statement after journalists ‘banned’ from press conference...",
+    "description": "Manchester United explained why four journalists were banned from an Erik ten Hag press conference on Tuesday. Sky Sports chief reporter Kaveh Solhekhol, the Manchester Evening News’ Samuel L…",
+    "url": "https://talksport.com/football/1666142/man-utd-journalists-banned-press-conference-erik-ten-hag/",
+    "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2023/10/228f511f-c84a-48e8-b067-5c7277d90984.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+    "publishedAt": "2023-12-05T12:12:06Z",
+    "content": "Manchester United explained why four journalists were banned from an Erik ten Hag press conference on Tuesday.\r\nSky Sports chief reporter Kaveh Solhekhol, the Manchester Evening News' Samuel Luckhurs… [+820 chars]"
+    },
+    {
+    "source": {
+        "id": "bleacher-report",
+        "name": "Bleacher Report"
+    },
+    "author": null,
+    "title": "New Micah Parsons Show ",
+    "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+    "url": "https://bleacherreport.com/videos/490566-the-edge-w-micah-parsons-ep-11-vod",
+    "urlToImage": null,
+    "publishedAt": "2023-11-27T20:37:24.6381564Z",
+    "content": null
+    },
+    {
+    "source": {
+        "id": "bleacher-report",
+        "name": "Bleacher Report"
+    },
+    "author": null,
+    "title": " Mikal Bridges Interview ",
+    "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+    "url": "https://bleacherreport.com/videos/491103-taylor-rooks-x-mikal-bridges-vod",
+    "urlToImage": null,
+    "publishedAt": "2023-11-27T20:37:24.3882176Z",
+    "content": "Nets star sits down with Taylor Rooks for exclusive convo."
+    },
+    {
+    "source": {
+        "id": "reuters",
+        "name": "Reuters"
+    },
+    "author": "Reuters Graphics",
+    "title": "Reuters Graphics - Charts, Maps, Interactive Graphics and Videos",
+    "description": "The latest world news - politics, sports, culture, science and environment - from our graphics journalists in Singapore, Bangalore, London and New York.",
+    "url": "https://www.reuters.com/graphics/",
+    "urlToImage": "https://www.reuters.com/graphics/cdn/img/home.jpg",
+    "publishedAt": "2020-12-21T00:00:00Z",
+    "content": null
+    },
+    {
+    "source": {
+        "id": "nrk",
+        "name": "NRK"
+    },
+    "author": "NRK",
+    "title": "De siste sportsnyhetene fra NRK",
+    "description": "Her får du de siste sportsnyhetene fra NRK.",
+    "url": "https://www.nrk.no/sport/sportsnyheter-1.14660227#1.16785556.1.16785556",
+    "urlToImage": "https://gfx.nrk.no/7kT5zGoE2E-GnUKLojH1PQ0I1Nze4Ypu8lxM-oBjubQw.jpg",
+    "publishedAt": "2019-08-14T09:09:42Z",
+    "content": "29. februar2024kl.21:07Seriemester Storhamar lar seg ikke beseire. Etter seier på straffer borte mot Frisk Asker torsdag kveld, ble det et vanvittig rekordras for Hamar-klubben.\r\nMed to nye poeng har… [+1250 chars]"
+    }
+]
+}
